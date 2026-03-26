@@ -1,5 +1,5 @@
 import java.util.*;
-
+// This class stores user details
 class User {
     String name;
     double balance;
