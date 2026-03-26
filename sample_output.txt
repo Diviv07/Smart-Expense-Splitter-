@@ -1,0 +1,17 @@
+Enter number of users: 3
+
+Enter name: A
+Enter name: B
+Enter name: C
+
+Enter total expense: 300
+
+Each person should pay: 100
+
+Enter amount paid by A: 200
+Enter amount paid by B: 50
+Enter amount paid by C: 50
+
+--- Transactions ---
+B pays 50 to A
+C pays 50 to A
