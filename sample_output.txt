@@ -1,3 +1,4 @@
+Sample Run of Smart Expense Splitter
 Enter number of users: 3
 
 Enter name: A
